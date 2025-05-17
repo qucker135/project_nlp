@@ -1,0 +1,616 @@
+Question nr: 1
+Correct answer: A
+Model's answer: There is no one having a birthday.
+Response time: 4.079673325000044
+
+Question nr: 2
+Correct answer: C
+Model's answer: There were no relationships found, which implies that there was a gathering or meeting of some sort. Since no one had any relationships with each other, it's likely that everyone who was supposed to attend did not show up. Therefore, the answer is "everyone."
+Response time: 11.107324223999967
+
+Question nr: 3
+Correct answer: B
+Model's answer: I'm happy to help! However, since there's no context information provided about Jessie or a party, I can't provide an answer. The given context only states "No relationships found." which doesn't give me any clues about Jessie or their preparation for a party.
+Response time: 12.365602694000017
+
+Question nr: 4
+Correct answer: B
+Model's answer: I'm not aware of any information about Jessie's party or the number of friends who attended. The answer would be "Unknown" or "Not specified".
+Response time: 7.849119162999955
+
+Question nr: 5
+Correct answer: C
+Model's answer: Tina.
+Response time: 4.0486818340000355
+
+Question nr: 6
+Correct answer: D
+Model's answer: Sally promised to mail shells to Tina.
+Response time: 3.9393271339999956
+
+Question nr: 7
+Correct answer: D
+Model's answer: Sally enjoyed Nature.
+Response time: 3.284846307000066
+
+Question nr: 8
+Correct answer: A
+Model's answer: Had an exciting summer vacation.
+Response time: 3.2164165420000472
+
+Question nr: 9
+Correct answer: A
+Model's answer: Todd didn't visit anywhere. He lived in Town, was surprised by City, but there is no indication that he visited City or any other location.
+Response time: 5.4087372730000425
+
+Question nr: 10
+Correct answer: C
+Model's answer: "There's no place like home"
+Response time: 3.2731290980000267
+
+Question nr: 11
+Correct answer: D
+Model's answer: Town.
+Response time: 2.661350789000039
+
+Question nr: 12
+Correct answer: D
+Model's answer: Todd saw many Cars.
+Response time: 3.167444885000009
+
+Question nr: 13
+Correct answer: A
+Model's answer: There is no information about the driver of the ice cream truck in the given context. Therefore, it's impossible to determine what the driver did when Greta and Tony got to the corner.
+Response time: 7.050459561000025
+
+Question nr: 14
+Correct answer: B
+Model's answer: The children looked around in confusion.
+Response time: 3.6836286819999486
+
+Question nr: 15
+Correct answer: C
+Model's answer: Tony got "Ice cream sundae with chocolate ice cream and nuts" and Greta got "Ice cream sandwich".
+Response time: 5.283765529999982
+
+Question nr: 16
+Correct answer: B
+Model's answer: According to the sequence of events, after getting their respective ice creams, Greta "Saw" Candy, Ice cream cones, and Snow cones. Meanwhile, Tony's next action is not explicitly stated in the given context.
+Response time: 7.51094655299994
+
+Question nr: 17
+Correct answer: B
+Model's answer: I'm not aware of any information about your brother's name.
+Response time: 4.783663645999923
+
+Question nr: 18
+Correct answer: B
+Model's answer: We didn't go anywhere.
+Response time: 4.767045521
+
+Question nr: 19
+Correct answer: B
+Model's answer: Nothing.
+Response time: 4.536263858999973
+
+Question nr: 20
+Correct answer: C
+Model's answer: We didn't do anything at the castle because no relationships were found.
+Response time: 5.7610533979999445
+
+Question nr: 21
+Correct answer: A
+Model's answer: Spelling last word correctly.
+Response time: 4.05618878000007
+
+Question nr: 22
+Correct answer: C
+Model's answer: There is no information about a school having a picnic in the provided context. Therefore, it's impossible to determine where the school had the picnic.
+Response time: 7.555034613999965
+
+Question nr: 23
+Correct answer: D
+Model's answer: Spelling bee winner.
+Response time: 3.831719249999992
+
+Question nr: 24
+Correct answer: B
+Model's answer: The answer is "No one".
+Response time: 4.192548000999977
+
+Question nr: 25
+Correct answer: B
+Model's answer: Roger began a lifetime friendship with Gilbert and Sam.
+Response time: 5.642182321999826
+
+Question nr: 26
+Correct answer: B
+Model's answer: There is no spider mentioned in the context, nor is there a pond. Therefore, it's impossible to determine what the spider would be sitting on.
+Response time: 7.634265369000104
+
+Question nr: 27
+Correct answer: B
+Model's answer: Character.
+Response time: 3.3436198349997994
+
+Question nr: 28
+Correct answer: D
+Model's answer: There is no spider mentioned in the provided context information. Therefore, I cannot provide a name for a spider that does not exist in the given context.
+Response time: 6.722427472999925
+
+Question nr: 29
+Correct answer: A
+Model's answer: There is no mention of a story or balls in the provided context. Therefore, I cannot provide an answer to this question.
+Response time: 7.011629735000042
+
+Question nr: 30
+Correct answer: D
+Model's answer: There is no leader among the balls since no relationships were found.
+Response time: 4.901764200999878
+
+Question nr: 31
+Correct answer: B
+Model's answer: There is no information about a blue ball being scared or any balls having colors. The only information provided is "No relationships found." Therefore, it's impossible to determine what color of ball might have scared the blue ball because there is no context about this scenario.
+Response time: 11.644696683999882
+
+Question nr: 32
+Correct answer: B
+Model's answer: There is no mention of a green ball in the provided context. Therefore, it's impossible to determine its state at the end of any story, as there is no story or green ball mentioned.
+Response time: 10.076506524000024
+
+Question nr: 33
+Correct answer: C
+Model's answer: She really wanted to play on a team and wear a real uniform.
+Response time: 5.317247027000121
+
+Question nr: 34
+Correct answer: C
+Model's answer: The answer is "Dad".
+Response time: 4.394619157000079
+
+Question nr: 35
+Correct answer: C
+Model's answer: She was able to hit a ball very far.
+Response time: 4.752559834000067
+
+Question nr: 36
+Correct answer: C
+Model's answer: Park
+Response time: 3.7938085160001265
+
+Question nr: 37
+Correct answer: D
+Model's answer: Peter didn't want to do anything when Sammie came.
+Response time: 5.79623463300004
+
+Question nr: 38
+Correct answer: B
+Model's answer: Inside of a Pet store.
+Response time: 4.044282886000019
+
+Question nr: 39
+Correct answer: C
+Model's answer: Peter had been inside of the Pet store.
+Response time: 5.07123943900001
+
+Question nr: 40
+Correct answer: D
+Model's answer: A Golden puppy.
+Response time: 4.086203059999889
+
+Question nr: 41
+Correct answer: C
+Model's answer: Olive the owl didn't need socks because it has Thick feathers.
+Response time: 4.5714793679999275
+
+Question nr: 42
+Correct answer: A
+Model's answer: Luna is afraid of humans because she uses her powerful beak to break pins.
+Response time: 4.504503540000087
+
+Question nr: 43
+Correct answer: C
+Model's answer: Based on the given sequence of events, it can be inferred that Luna is an animal. Since she uses a powerful beak to break Pins, it's likely that she is a bird. Given this information, it's reasonable to assume that Luna visited Humans, as she is afraid of them. Therefore, the answer would be Humans.
+Response time: 9.916769314000021
+
+Question nr: 44
+Correct answer: D
+Model's answer: The baby raccoons could use their natural instinct to adapt to the situation. They might find alternative ways to play, such as using their sense of touch and smell to explore the icy creek's edges or searching for food sources nearby. Their curious nature would likely lead them to discover creative solutions to navigate the icy terrain without harming their paws.
+Response time: 13.42952619599987
+
+Question nr: 45
+Correct answer: A
+Model's answer: It was an ordinary day. When they got home, they discovered that their favorite restaurant had started serving a new menu item that they both loved.
+Response time: 8.107900537000205
+
+Question nr: 46
+Correct answer: D
+Model's answer: They were heading to the beach by car.
+Response time: 5.1170177510000485
+
+Question nr: 47
+Correct answer: C
+Model's answer: Since no relationships were found, it's likely that the couple didn't watch anything related to boats. Therefore, I'd say they watched something else entirely!
+Response time: 7.850172806999808
+
+Question nr: 48
+Correct answer: C
+Model's answer: I'm happy to help! However, since there's no context about a young couple or finding a parking spot, I'd say that it's unknown.
+Response time: 8.147674262999999
+
+Question nr: 49
+Correct answer: B
+Model's answer: There is no information about a cat in the provided context. Therefore, I cannot provide an answer to this question.
+Response time: 6.150308457999927
+
+Question nr: 50
+Correct answer: D
+Model's answer: Bright red tomatoes.
+Response time: 3.6345250740000665
+
+Question nr: 51
+Correct answer: D
+Model's answer: When Cowboy felt mean, he liked to bite and chew and scratch.
+Response time: 4.889929067999901
+
+Question nr: 52
+Correct answer: C
+Model's answer: A Great big cat.
+Response time: 4.022164875000044
+
+Question nr: 53
+Correct answer: C
+Model's answer: There was no reason for the students to read their stories to the class.
+Response time: 5.128941341999962
+
+Question nr: 54
+Correct answer: D
+Model's answer: There is no information provided about what the students had to write about.
+Response time: 6.1814597420000155
+
+Question nr: 55
+Correct answer: B
+Model's answer: There is no mention of Mrs. Law or her smiling at Anna in the provided context. Therefore, it's impossible to determine why she might have smiled at Anna.
+Response time: 7.087255857999935
+
+Question nr: 56
+Correct answer: B
+Model's answer: According to the given sequence of events, Anna rode a "Superman ride". However, she didn't tell the class about it. Instead, she told them about her vacation. Therefore, there is no information about what huge ride Anna told the class about.
+Response time: 12.01671907900004
+
+Question nr: 57
+Correct answer: A
+Model's answer: Beavers are known to build bridges as part of their dam-building activities.
+Response time: 3.8614242979999744
+
+Question nr: 58
+Correct answer: D
+Model's answer: The bear and wolf crossed a bridge, and they turned back because it was too rickety.
+Response time: 4.803996769999912
+
+Question nr: 59
+Correct answer: C
+Model's answer: The beaver built a dam. He thanked the bear and wolf because they helped him gather materials for it.
+Response time: 5.006541081000023
+
+Question nr: 60
+Correct answer: D
+Model's answer: I'm happy to help! However, since there's no context provided about any animals or their actions, I'd say that this is not a story about any two animals taking a walk in the woods.
+Response time: 7.374182339999834
+
+Question nr: 61
+Correct answer: D
+Model's answer: There is no one who drove the truck.
+Response time: 3.662735808999969
+
+Question nr: 62
+Correct answer: D
+Model's answer: Utah.
+Response time: 2.8991730259999713
+
+Question nr: 63
+Correct answer: D
+Model's answer: Rode in car towards utah.
+Response time: 3.3867761249998694
+
+Question nr: 64
+Correct answer: C
+Model's answer: Jenny was not necessarily sad about the move.
+Response time: 3.6375681980000536
+
+Question nr: 65
+Correct answer: B
+Model's answer: It's impossible to determine who is closer without more information.
+Response time: 4.579007211000089
+
+Question nr: 66
+Correct answer: C
+Model's answer: It's difficult to say with certainty, but I'd venture that the likelihood is relatively low.
+Response time: 5.113575548999961
+
+Question nr: 67
+Correct answer: D
+Model's answer: Since no relationships were found, it's reasonable to assume that both entities are independent. In this case, the probability of neither winning is calculated by multiplying the probabilities of each entity not winning.
+
+Let's assume the probability of one entity not winning is p1, and the probability of the other entity not winning is p2. Then, the probability of neither of them winning would be:
+
+p1 * p2
+
+Since we don't have any specific information about these entities or their relationships, it's difficult to provide a precise value for this probability. However, in general, when two events are independent, the probability of both not occurring is the product of their individual probabilities.
+
+So, without further information, I would say that the likelihood of neither of them winning is p1 * p2.
+Response time: 21.07776501399985
+
+Question nr: 68
+Correct answer: C
+Model's answer: There is no right amount.
+Response time: 4.012639999999919
+
+Question nr: 69
+Correct answer: A
+Model's answer: I'm happy to help!
+
+Since there is no mention of a park or anything being chased in the given context, I would say that Hannah and Mary didn't chase anything at the park.
+Response time: 6.363609277000023
+
+Question nr: 70
+Correct answer: C
+Model's answer: I'm happy to help!
+
+Since there is no mention of a mother or leftovers in the given context, I would say that there is no information available about what Hannah's mother did with the leftovers. The provided sequence only describes relationships between individuals and their actions, but does not provide any details about food or mothers.
+Response time: 8.927284974000031
+
+Question nr: 71
+Correct answer: B
+Model's answer: What to do.
+Response time: 3.0918933320001543
+
+Question nr: 72
+Correct answer: C
+Model's answer: Hannah tried to think about what to do.
+Response time: 3.634176274000083
+
+Question nr: 73
+Correct answer: B
+Model's answer: According to the sequence of events, Douglas's dream about Pele head-butting a soccer ball in the goal likely helped him win the game.
+Response time: 8.067520395999964
+
+Question nr: 74
+Correct answer: D
+Model's answer: There is no information that suggests anyone woke Douglas up by licking him in the face. The context only mentions Douglas falling asleep during a game and getting up and stretched after sleeping, but there is no mention of someone waking him up or licking his face.
+Response time: 11.342055708999851
+
+Question nr: 75
+Correct answer: B
+Model's answer: According to the given sequence of events, it seems that the Dolphins were losing initially by a score of Two to one. Later, they managed to tie the game at Two to two. This implies that the Dolphins scored at least two points in total.
+
+However, without further information about the specific goals or goal-scorers, it's impossible to determine who scored the goals and how many points each player contributed.
+Response time: 16.750012220999906
+
+Question nr: 76
+Correct answer: B
+Model's answer: Soccer.
+Response time: 5.411100294000107
+
+Question nr: 77
+Correct answer: D
+Model's answer: The query doesn't mention anything about a nation or travel. The only relevant information is that Carl needs a tire and a sun gatherer, and puts in new parts. Therefore, it's not possible to determine what nation Carl wants to get to based on the provided context.
+Response time: 9.538904159999902
+
+Question nr: 78
+Correct answer: D
+Model's answer: Besides a tire, Carl needed a Sun gatherer.
+Response time: 3.746231587000011
+
+Question nr: 79
+Correct answer: D
+Model's answer: There is no information provided about Carl's origin or where he came from. The given sequence only describes Carl's properties, needs, and actions, but does not provide any details about his past or creation. Therefore, it is impossible to determine where Carl came from based on the provided context.
+Response time: 9.291170281000177
+
+Question nr: 80
+Correct answer: A
+Model's answer: There is no city mentioned in the given context.
+Response time: 3.2603483340001276
+
+Question nr: 81
+Correct answer: C
+Model's answer: Brian asked his Dad for money.
+Response time: 3.794553896000025
+
+Question nr: 82
+Correct answer: C
+Model's answer: Fifty cents.
+Response time: 3.2195900890001212
+
+Question nr: 83
+Correct answer: A
+Model's answer: Brian wanted a new baseball glove.
+Response time: 3.590211919000012
+
+Question nr: 84
+Correct answer: B
+Model's answer: Fifty cents + Two dollars + Three dollars = Five dollars fifty cents.
+Response time: 4.009516619000124
+
+Question nr: 85
+Correct answer: B
+Model's answer: There is no mention of a box in the given context. Therefore, it's impossible to determine what Bob and Sally found in the box because there is no box mentioned.
+Response time: 7.774553638000043
+
+Question nr: 86
+Correct answer: C
+Model's answer: According to the given sequence of events, Sally found a "Bottle with paper inside".
+Response time: 4.124863711000216
+
+Question nr: 87
+Correct answer: C
+Model's answer: According to the given sequence of events, Sally showed a map to Bob. After that, Bob walked to the Beach. There is no mention of showing a pearl to a worker in the provided context. Therefore, it's not possible to determine what Bob and Sally did after they showed the pearl to the worker because this event does not occur in the given sequence.
+Response time: 10.227940649000175
+
+Question nr: 88
+Correct answer: A
+Model's answer: They found it.
+Response time: 3.50872990400012
+
+Question nr: 89
+Correct answer: C
+Model's answer: There is no information provided about what you were doing. The context states "No relationships found." which implies that there is no relevant data or history to draw from. Therefore, it's not possible to determine what you were doing on any particular day, including the beginning of the story.
+Response time: 8.414181747999919
+
+Question nr: 90
+Correct answer: C
+Model's answer: Nothing.
+Response time: 3.0644838929997604
+
+Question nr: 91
+Correct answer: B
+Model's answer: There was no sound mentioned in the context.
+Response time: 3.3389892000000145
+
+Question nr: 92
+Correct answer: A
+Model's answer: I'm happy to help! Since no relationships were found, it seems that there was no story provided. Therefore, it's not possible to determine how you felt at the end of a story because no story exists.
+Response time: 6.430996088000029
+
+Question nr: 93
+Correct answer: C
+Model's answer: I'm happy to help! However, I must point out that there is no information provided about George's wife. The given sequence only mentions that George is named Duck, but it does not provide any information about his marital status or the name of his wife. Therefore, I cannot answer the query as it is not possible to determine George's wife's name based on the provided context.
+Response time: 11.475042203999692
+
+Question nr: 94
+Correct answer: B
+Model's answer: There is no one for the squirrel to throw things at.
+Response time: 3.42464361500015
+
+Question nr: 95
+Correct answer: B
+Model's answer: The squirrel threw a giant walnut at Magneson.
+Response time: 3.9439160799997808
+
+Question nr: 96
+Correct answer: C
+Model's answer: Park.
+Response time: 2.7087531450001734
+
+Question nr: 97
+Correct answer: A
+Model's answer: There is no one who slipped on a banana skin.
+Response time: 3.7299291690001155
+
+Question nr: 98
+Correct answer: D
+Model's answer: Josh does not want to upset Teacher.
+Response time: 3.092717989999983
+
+Question nr: 99
+Correct answer: A
+Model's answer: No one turned into a banana skin after throwing trash on the school yard.
+Response time: 5.157629924000048
+
+Question nr: 100
+Correct answer: B
+Model's answer: There are no principal characters mentioned in the provided context.
+Response time: 4.416384135000044
+
+Question nr: 101
+Correct answer: B
+Model's answer: Never.
+Response time: 2.673548869000115
+
+Question nr: 102
+Correct answer: C
+Model's answer: There is no mention of a cat in the provided context information, so it's impossible to determine the name of the cat.
+Response time: 4.42602595399967
+
+Question nr: 103
+Correct answer: D
+Model's answer: They were too chivalrous.
+Response time: 3.4687779070000033
+
+Question nr: 104
+Correct answer: D
+Model's answer: There is no mention of a specific individual's mother or her feelings about wolves in the provided context. Therefore, it is impossible to determine what one reason she might have had for disliking them.
+Response time: 6.501859420000073
+
+Question nr: 105
+Correct answer: C
+Model's answer: Sally took off her shoes.
+Response time: 3.2350117890000547
+
+Question nr: 106
+Correct answer: A
+Model's answer: Singing.
+Response time: 3.017820176999976
+
+Question nr: 107
+Correct answer: B
+Model's answer: There is no mention of a cat in the provided context information, so it's impossible to determine the name of the cat.
+Response time: 4.68263012899979
+
+Question nr: 108
+Correct answer: D
+Model's answer: No one.
+Response time: 2.7932776539996667
+
+Question nr: 109
+Correct answer: C
+Model's answer: Nobody has a dog.
+Response time: 2.8952064529999006
+
+Question nr: 110
+Correct answer: B
+Model's answer: According to the given sequence of events, both Tammy and Mary throw a ball.
+Response time: 4.430611555000269
+
+Question nr: 111
+Correct answer: C
+Model's answer: Nobody.
+Response time: 2.600012133999826
+
+Question nr: 112
+Correct answer: B
+Model's answer: There is no mention of a dog in the provided context information, so it's impossible to determine the name of the dog.
+Response time: 4.634634364999783
+
+Question nr: 113
+Correct answer: C
+Model's answer: There was no apparent reason why the cats didn't like him.
+Response time: 3.965843314000267
+
+Question nr: 114
+Correct answer: B
+Model's answer: An area where there were no other Dogs.
+Response time: 3.630542229999719
+
+Question nr: 115
+Correct answer: A
+Model's answer: Run away from all of the Cats.
+Response time: 4.195350430999952
+
+Question nr: 116
+Correct answer: C
+Model's answer: Mittens.
+Response time: 3.8285593880000306
+
+Question nr: 117
+Correct answer: B
+Model's answer: I'm happy to help! However, since there's no context provided about a princess or her escape, I must respectfully say that it's impossible for me to provide an accurate answer. The question itself doesn't make sense within the given context. If you'd like to provide more information or clarify the situation, I'd be delighted to try and assist you further!
+Response time: 10.836597106000227
+
+Question nr: 118
+Correct answer: B
+Model's answer: Rapunzel.
+Response time: 3.001615598999706
+
+Question nr: 119
+Correct answer: C
+Model's answer: A tree!
+Response time: 2.76949705800007
+
+Question nr: 120
+Correct answer: D
+Model's answer: I'm happy to help! Since there's no relationship mentioned, I'll assume a neutral scenario. In that case, the princess lives in her castle.
+Response time: 5.453419431999919
+
+Average time for graph store: 5.614431378916659
+Total time for graph store: 673.731765469999

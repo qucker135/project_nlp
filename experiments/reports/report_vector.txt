@@ -1,0 +1,603 @@
+Question nr: 1
+Correct answer: A
+Model's answer: A) Jessie Bear
+Response time: 5.687416775000003
+
+Question nr: 2
+Correct answer: C
+Model's answer: D)
+Response time: 1.5870153209999955
+
+Question nr: 3
+Correct answer: B
+Model's answer: B
+Response time: 1.277389315000022
+
+Question nr: 4
+Correct answer: B
+Model's answer: B) two
+Response time: 1.3959233550000079
+
+Question nr: 5
+Correct answer: C
+Model's answer: C)
+Response time: 1.5872416939999994
+
+Question nr: 6
+Correct answer: D
+Model's answer: D)
+Response time: 1.7706659270000102
+
+Question nr: 7
+Correct answer: D
+Model's answer: D
+Response time: 1.3844847859999732
+
+Question nr: 8
+Correct answer: A
+Model's answer: A
+Response time: 1.2468342869999844
+
+Question nr: 9
+Correct answer: A
+Model's answer: A) The city
+Response time: 1.7389922989999889
+
+Question nr: 10
+Correct answer: C
+Model's answer: C)
+Response time: 1.3903765750000048
+
+Question nr: 11
+Correct answer: D
+Model's answer: D
+Response time: 1.2449042940000083
+
+Question nr: 12
+Correct answer: D
+Model's answer: D)
+Response time: 1.4305838820000076
+
+Question nr: 13
+Correct answer: A
+Model's answer: C
+Response time: 1.3117936339999972
+
+Question nr: 14
+Correct answer: B
+Model's answer: B
+Response time: 1.3448250259999952
+
+Question nr: 15
+Correct answer: C
+Model's answer: C
+Response time: 1.490981056999999
+
+Question nr: 16
+Correct answer: B
+Model's answer: B) They bit into it.
+Response time: 1.9836337249999758
+
+Question nr: 17
+Correct answer: B
+Model's answer: B) Kelsey
+Response time: 1.7353843429999927
+
+Question nr: 18
+Correct answer: B
+Model's answer: A
+Response time: 1.4188660979999952
+
+Question nr: 19
+Correct answer: B
+Model's answer: A)
+Response time: 1.4412908850000008
+
+Question nr: 20
+Correct answer: C
+Model's answer: A) Played ball
+Response time: 1.7360210589999951
+
+Question nr: 21
+Correct answer: A
+Model's answer: A) The other ten students
+Response time: 2.3492072640000004
+
+Question nr: 22
+Correct answer: C
+Model's answer: C) Outside
+Response time: 1.6637852799999848
+
+Question nr: 23
+Correct answer: D
+Model's answer: D) Becoming spelling bee winner
+Response time: 2.1351248080000005
+
+Question nr: 24
+Correct answer: B
+Model's answer: B) Her best friend
+Response time: 2.0697700620000035
+
+Question nr: 25
+Correct answer: B
+Model's answer: B) Hop.
+Response time: 1.831406032000018
+
+Question nr: 26
+Correct answer: B
+Model's answer: B) Lily pad
+Response time: 1.859517330000017
+
+Question nr: 27
+Correct answer: B
+Model's answer: B) lady bug
+Response time: 1.966198950000006
+
+Question nr: 28
+Correct answer: D
+Model's answer: D) Sam
+Response time: 1.6522077930000023
+
+Question nr: 29
+Correct answer: A
+Model's answer: B) blue
+Response time: 1.6294262440000011
+
+Question nr: 30
+Correct answer: D
+Model's answer: D) purple
+Response time: 1.7094341930000212
+
+Question nr: 31
+Correct answer: B
+Model's answer: C) orange
+Response time: 1.4881019050000077
+
+Question nr: 32
+Correct answer: B
+Model's answer: B) dead
+Response time: 1.4741601450000132
+
+Question nr: 33
+Correct answer: C
+Model's answer: C
+Response time: 1.3688613169999826
+
+Question nr: 34
+Correct answer: C
+Model's answer: C) Her Dad
+Response time: 1.717557873000004
+
+Question nr: 35
+Correct answer: C
+Model's answer: D
+Response time: 1.358298005999984
+
+Question nr: 36
+Correct answer: C
+Model's answer: C) The park
+Response time: 1.7262742090000245
+
+Question nr: 37
+Correct answer: D
+Model's answer: D
+Response time: 1.3778559589999873
+
+Question nr: 38
+Correct answer: B
+Model's answer: B
+Response time: 1.3877289010000027
+
+Question nr: 39
+Correct answer: C
+Model's answer: B
+Response time: 1.4430208230000119
+
+Question nr: 40
+Correct answer: D
+Model's answer: D)
+Response time: 1.4446041940000214
+
+Question nr: 41
+Correct answer: C
+Model's answer: C) She has thick feathers on her legs and toes.
+Response time: 2.692947542999974
+
+Question nr: 42
+Correct answer: A
+Model's answer: B
+Response time: 1.3793682390000015
+
+Question nr: 43
+Correct answer: C
+Model's answer: D)
+Response time: 1.4215408759999946
+
+Question nr: 44
+Correct answer: D
+Model's answer: B
+Response time: 1.4871807580000223
+
+Question nr: 45
+Correct answer: A
+Model's answer: A) Yes, it was a good day and they found out they were sunburned.
+Response time: 4.204442790999991
+
+Question nr: 46
+Correct answer: D
+Model's answer: D)
+Response time: 1.6774767629999872
+
+Question nr: 47
+Correct answer: C
+Model's answer: C) people playing in the water
+Response time: 2.141480991999998
+
+Question nr: 48
+Correct answer: C
+Model's answer: D
+Response time: 1.3810617480000076
+
+Question nr: 49
+Correct answer: B
+Model's answer: B) Cowboy
+Response time: 1.8363797889999773
+
+Question nr: 50
+Correct answer: D
+Model's answer: D
+Response time: 1.3592906570000025
+
+Question nr: 51
+Correct answer: D
+Model's answer: D)
+Response time: 1.4600524319999977
+
+Question nr: 52
+Correct answer: C
+Model's answer: C
+Response time: 1.3631376939999882
+
+Question nr: 53
+Correct answer: C
+Model's answer: C
+Response time: 1.4300642910000079
+
+Question nr: 54
+Correct answer: D
+Model's answer: D)
+Response time: 1.4810716549999938
+
+Question nr: 55
+Correct answer: B
+Model's answer: B
+Response time: 1.4377067409999995
+
+Question nr: 56
+Correct answer: B
+Model's answer: B) Superman
+Response time: 1.7760253630000022
+
+Question nr: 57
+Correct answer: A
+Model's answer: A) the beaver
+Response time: 2.068731426999989
+
+Question nr: 58
+Correct answer: D
+Model's answer: D
+Response time: 1.4987864100000081
+
+Question nr: 59
+Correct answer: C
+Model's answer: C
+Response time: 1.412480904000006
+
+Question nr: 60
+Correct answer: D
+Model's answer: D)
+Response time: 1.5736479880000047
+
+Question nr: 61
+Correct answer: D
+Model's answer: D) Jenny's Dad
+Response time: 1.8638040149999995
+
+Question nr: 62
+Correct answer: D
+Model's answer: D) Seattle
+Response time: 1.9359866700000055
+
+Question nr: 63
+Correct answer: D
+Model's answer: D)
+Response time: 1.6265234239999984
+
+Question nr: 64
+Correct answer: C
+Model's answer: C) She had to leave her friends and her school
+Response time: 2.56348995099998
+
+Question nr: 65
+Correct answer: B
+Model's answer: C) Mike
+Response time: 1.5433488909999937
+
+Question nr: 66
+Correct answer: C
+Model's answer: B
+Response time: 1.3239077570000006
+
+Question nr: 67
+Correct answer: D
+Model's answer: B
+Response time: 1.403138728999977
+
+Question nr: 68
+Correct answer: C
+Model's answer: A
+Response time: 1.3280241230000343
+
+Question nr: 69
+Correct answer: A
+Model's answer: C
+Response time: 1.269390723000015
+
+Question nr: 70
+Correct answer: C
+Model's answer: C) Put it in the trash can
+Response time: 2.2291001159999837
+
+Question nr: 71
+Correct answer: B
+Model's answer: B
+Response time: 1.3397796700000413
+
+Question nr: 72
+Correct answer: C
+Model's answer: C
+Response time: 1.3296803679999698
+
+Question nr: 73
+Correct answer: B
+Model's answer: B) He dreamed about Pele heading the ball in the goal.
+Response time: 3.465645020000011
+
+Question nr: 74
+Correct answer: D
+Model's answer: D
+Response time: 1.5917066839999734
+
+Question nr: 75
+Correct answer: B
+Model's answer: B)
+Response time: 1.5088815860000295
+
+Question nr: 76
+Correct answer: B
+Model's answer: B
+Response time: 1.450573654999971
+
+Question nr: 77
+Correct answer: D
+Model's answer: D) Lab
+Response time: 1.6119840769999882
+
+Question nr: 78
+Correct answer: D
+Model's answer: D) sun gatherer
+Response time: 1.9377255470000136
+
+Question nr: 79
+Correct answer: D
+Model's answer: D) Factory
+Response time: 1.6010574989999782
+
+Question nr: 80
+Correct answer: A
+Model's answer: D) Factory
+Response time: 1.614011464999976
+
+Question nr: 81
+Correct answer: C
+Model's answer: D
+Response time: 1.4262092089999783
+
+Question nr: 82
+Correct answer: C
+Model's answer: C) Fifty cents
+Response time: 1.8245355419999782
+
+Question nr: 83
+Correct answer: A
+Model's answer: A
+Response time: 1.2722688819999917
+
+Question nr: 84
+Correct answer: B
+Model's answer: B) Twelve dollars
+Response time: 1.7500925209999991
+
+Question nr: 85
+Correct answer: B
+Model's answer: C) A ring
+Response time: 1.699542466999958
+
+Question nr: 86
+Correct answer: C
+Model's answer: C
+Response time: 1.396820699999978
+
+Question nr: 87
+Correct answer: C
+Model's answer: C
+Response time: 1.30516086800003
+
+Question nr: 88
+Correct answer: A
+Model's answer: A
+Response time: 1.2981539880000241
+
+Question nr: 89
+Correct answer: C
+Model's answer: C)
+Response time: 1.456691625000019
+
+Question nr: 90
+Correct answer: C
+Model's answer: A)
+Response time: 1.595601352000017
+
+Question nr: 91
+Correct answer: B
+Model's answer: B
+Response time: 1.4225907679999636
+
+Question nr: 92
+Correct answer: A
+Model's answer: A) happy
+Response time: 1.6221463719999747
+
+Question nr: 93
+Correct answer: C
+Model's answer: C) Nancy
+Response time: 1.6565611390000186
+
+Question nr: 94
+Correct answer: B
+Model's answer: B
+Response time: 1.288696989000016
+
+Question nr: 95
+Correct answer: B
+Model's answer: B
+Response time: 1.2965082489999986
+
+Question nr: 96
+Correct answer: C
+Model's answer: B)
+Response time: 1.436233628000025
+
+Question nr: 97
+Correct answer: A
+Model's answer: A) Josh
+Response time: 1.6246863989999838
+
+Question nr: 98
+Correct answer: D
+Model's answer: D)
+Response time: 1.47312322800002
+
+Question nr: 99
+Correct answer: A
+Model's answer: A) Mary
+Response time: 1.5426458000000025
+
+Question nr: 100
+Correct answer: B
+Model's answer: B
+Response time: 1.2779244569999832
+
+Question nr: 101
+Correct answer: B
+Model's answer: B) when petted
+Response time: 1.827016905999983
+
+Question nr: 102
+Correct answer: C
+Model's answer: C) Wolfgang
+Response time: 1.5552016629999912
+
+Question nr: 103
+Correct answer: D
+Model's answer: B) they purred
+Response time: 1.691502039999989
+
+Question nr: 104
+Correct answer: D
+Model's answer: B) they barked
+Response time: 1.6672186490000058
+
+Question nr: 105
+Correct answer: C
+Model's answer: C) Because she wanted to go outside.
+Response time: 2.3638802579999947
+
+Question nr: 106
+Correct answer: A
+Model's answer: B
+Response time: 1.2955528359999562
+
+Question nr: 107
+Correct answer: B
+Model's answer: B) Missy
+Response time: 1.6175737089999984
+
+Question nr: 108
+Correct answer: D
+Model's answer: D)
+Response time: 1.308954276999998
+
+Question nr: 109
+Correct answer: C
+Model's answer: B) Max
+Response time: 1.5954997670000353
+
+Question nr: 110
+Correct answer: B
+Model's answer: A)
+Response time: 1.4655767499999683
+
+Question nr: 111
+Correct answer: C
+Model's answer: C)
+Response time: 1.552994869000031
+
+Question nr: 112
+Correct answer: B
+Model's answer: B) Max
+Response time: 1.6458376499999758
+
+Question nr: 113
+Correct answer: C
+Model's answer: C)
+Response time: 1.4110190529999613
+
+Question nr: 114
+Correct answer: B
+Model's answer: B
+Response time: 1.2859580959999448
+
+Question nr: 115
+Correct answer: A
+Model's answer: D
+Response time: 1.3535619300000121
+
+Question nr: 116
+Correct answer: C
+Model's answer: C
+Response time: 1.4095039569999699
+
+Question nr: 117
+Correct answer: B
+Model's answer: D
+Response time: 1.3209077470000352
+
+Question nr: 118
+Correct answer: B
+Model's answer: B
+Response time: 1.2796440359999792
+
+Question nr: 119
+Correct answer: C
+Model's answer: C
+Response time: 1.3673623550000116
+
+Question nr: 120
+Correct answer: D
+Model's answer: D) High Tower
+Response time: 1.6316475540000397
+
+Average time for vector store: 1.6482534078416649
+Total time for vector store: 197.79040894099978
+Correct answers (naive): 90
