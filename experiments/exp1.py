@@ -67,69 +67,69 @@ prompt_template = ChatPromptTemplate([
     ("human", "{question}")
 ])
 
-# with open(os.path.join(REPORT_PATH, "report_vector.txt"), "w") as f_vector:
-#     
-#     correct_answers = 0
-# 
-#     for i in range(0, len(data), QUESTIONS_FOR_STORY):
-#         batch = data.iloc[i:i+QUESTIONS_FOR_STORY]
-#         story = batch.iloc[0]['story']
-#         questions = [batch.iloc[j]['question'] for j in range(QUESTIONS_FOR_STORY)]
-#         As = [batch.iloc[j]['A'] for j in range(QUESTIONS_FOR_STORY)]
-#         Bs = [batch.iloc[j]['B'] for j in range(QUESTIONS_FOR_STORY)]
-#         Cs = [batch.iloc[j]['C'] for j in range(QUESTIONS_FOR_STORY)]
-#         Ds = [batch.iloc[j]['D'] for j in range(QUESTIONS_FOR_STORY)]
-#         good_answers = [batch.iloc[j]['good_answer'] for j in range(QUESTIONS_FOR_STORY)]
-# 
-#         text_splitter = RecursiveCharacterTextSplitter(
-#             chunk_size=100,
-#             chunk_overlap=50,
-#             length_function=len,
-#             is_separator_regex=False,
-#             # separators=["\n\n", "\n", "\r\n", "\r"],
-#             separators=['']
-#         )
-# 
-#         chunks = text_splitter.create_documents([story])
-# 
-#         PATH_CHROMA = os.path.join(WORKDIR, f"chroma_{i}")
-# 
-#         vector_store = Chroma(
-#             collection_name=f"collection_{i}",
-#             embedding_function=embeddings,
-#             persist_directory=PATH_CHROMA,
-#         )
-# 
-#         uuids = [str(uuid4()) for _ in range(len(chunks))]
-# 
-#         vector_store.add_documents(documents=chunks, uuids=uuids)
-#     
-#         for j in range(QUESTIONS_FOR_STORY):
-#             print(f"Question nr: {i + j + 1}")
-#             query_text = questions[j]
-#             start = timeit.default_timer()
-# 
-#             results = vector_store.similarity_search(query_text, k=5)
-# 
-#             context_text = "\n\n---\n\n".join([doc.page_content for doc in results])
-#             prompt = prompt_template.format(context=context_text, question=query_text, A=As[j], B=Bs[j], C=Cs[j], D=Ds[j])
-#             response = model.invoke(prompt)
-# 
-#             end = timeit.default_timer()
-#             times_vector.append(end - start)
-# 
-#             print(response)
-#             if response[0] == good_answers[j]:
-#                 correct_answers += 1
-# 
-#             f_vector.write(f"Question nr: {i + j + 1}\n")
-#             f_vector.write(f"Correct answer: {good_answers[j]}\n")
-#             f_vector.write(f"Model's answer: {response}\n")
-#             f_vector.write(f"Response time: {end - start}\n\n")
-# 
-#     f_vector.write(f"Average time for vector store: {sum(times_vector)/len(times_vector)}\n")
-#     f_vector.write(f"Total time for vector store: {sum(times_vector)}\n")
-#     f_vector.write(f"Correct answers (naive): {correct_answers}\n")
+with open(os.path.join(REPORT_PATH, "report_vector.txt"), "w") as f_vector:
+    
+    correct_answers = 0
+
+    for i in range(0, len(data), QUESTIONS_FOR_STORY):
+        batch = data.iloc[i:i+QUESTIONS_FOR_STORY]
+        story = batch.iloc[0]['story']
+        questions = [batch.iloc[j]['question'] for j in range(QUESTIONS_FOR_STORY)]
+        As = [batch.iloc[j]['A'] for j in range(QUESTIONS_FOR_STORY)]
+        Bs = [batch.iloc[j]['B'] for j in range(QUESTIONS_FOR_STORY)]
+        Cs = [batch.iloc[j]['C'] for j in range(QUESTIONS_FOR_STORY)]
+        Ds = [batch.iloc[j]['D'] for j in range(QUESTIONS_FOR_STORY)]
+        good_answers = [batch.iloc[j]['good_answer'] for j in range(QUESTIONS_FOR_STORY)]
+
+        text_splitter = RecursiveCharacterTextSplitter(
+            chunk_size=100,
+            chunk_overlap=50,
+            length_function=len,
+            is_separator_regex=False,
+            # separators=["\n\n", "\n", "\r\n", "\r"],
+            separators=['']
+        )
+
+        chunks = text_splitter.create_documents([story])
+
+        PATH_CHROMA = os.path.join(WORKDIR, f"chroma_{i}")
+
+        vector_store = Chroma(
+            collection_name=f"collection_{i}",
+            embedding_function=embeddings,
+            persist_directory=PATH_CHROMA,
+        )
+
+        uuids = [str(uuid4()) for _ in range(len(chunks))]
+
+        vector_store.add_documents(documents=chunks, uuids=uuids)
+    
+        for j in range(QUESTIONS_FOR_STORY):
+            print(f"Question nr: {i + j + 1}")
+            query_text = questions[j]
+            start = timeit.default_timer()
+
+            results = vector_store.similarity_search(query_text, k=5)
+
+            context_text = "\n\n---\n\n".join([doc.page_content for doc in results])
+            prompt = prompt_template.format(context=context_text, question=query_text, A=As[j], B=Bs[j], C=Cs[j], D=Ds[j])
+            response = model.invoke(prompt)
+
+            end = timeit.default_timer()
+            times_vector.append(end - start)
+
+            print(response)
+            if response[0] == good_answers[j]:
+                correct_answers += 1
+
+            f_vector.write(f"Question nr: {i + j + 1}\n")
+            f_vector.write(f"Correct answer: {good_answers[j]}\n")
+            f_vector.write(f"Model's answer: {response}\n")
+            f_vector.write(f"Response time: {end - start}\n\n")
+
+    f_vector.write(f"Average time for vector store: {sum(times_vector)/len(times_vector)}\n")
+    f_vector.write(f"Total time for vector store: {sum(times_vector)}\n")
+    f_vector.write(f"Correct answers (naive): {correct_answers}\n")
 
 llm = LlamaIndexOllama(model="llama3", temperature=0)
 model = LlamaIndexOllama(model="qwen2m", temperature=0)
